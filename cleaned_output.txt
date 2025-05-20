@@ -1,0 +1,23 @@
+Java is an amazing programming language
+It is widely used in web development data science automation and more
+
+Many developers love Java for its simplicity and readability
+The Java community is very active
+
+ numbers should be removed from this line
+Empty lines should be handled properly
+
+
+Here is a line with exactly five words
+Another line that starts with A
+And another Awesome line with Java
+
+Java Java Java How popular is Java
+This line contains digits  and symbols 
+Short line
+The longest line in this file might be this one because it has many words and characters
+
+Spaces and punctuation should be carefully removed
+Reversing text is fun
+
+Last line here
